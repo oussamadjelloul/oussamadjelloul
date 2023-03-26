@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamadjelloul&label=Profile%20views&color=0e75b6&style=flat" alt="oussamadjelloul" /> </p>
 
-- 🌱 I’m currently learning **machine learning,..**
+- 🌱 I’m currently learning ** cyber security , machine learning **
 
 - 💬 Ask me about **react , django , node js**
 
