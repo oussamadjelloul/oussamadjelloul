@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **react , django , node js**
 
-- 📫 How to reach me **oussamadjelloul9@gmail.com**
+- 📫 How to reach me **o.djelloul@esi-sba.dz**
 
 - ⚡ Fun fact **I am funny**
 
