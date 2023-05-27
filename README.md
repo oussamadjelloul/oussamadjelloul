@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100010929523821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oussama djelloul" height="30" width="40" /></a>
 <a href="https://instagram.com/oussama_djelloul_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oussama_djelloul_19" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/oussama_djelloul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oussama_djelloul" height="30" width="40" /></a>
 <a href="https://discord.gg/OUSSAMA#1526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="OUSSAMA#1526" height="30" width="40" /></a>
 </p>
 
