@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm OUSSAMA DJELLOUL</h1>
-<h3 align="center">A passionate full stack developer from algeria</h3>
+<h3 align="center">A passionate full stack developer | CTF player | cyberSecurity enthusiasts </h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e478rkclqwq6oobeum4afl3y7bv2uma727qmfz368wg&rid=200.webp&ct=g" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamadjelloul&label=Profile%20views&color=0e75b6&style=flat" alt="oussamadjelloul" /> </p>
 
 - 🌱 I’m currently learning ** cyber security , machine learning **
 
-- 💬 Ask me about **react , django , node js**
+- 💬 Ask me about **react js, django, node js, next js**
 
 - 📫 How to reach me **o.djelloul@esi-sba.dz**
 
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
