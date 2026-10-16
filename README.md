@@ -2,8 +2,7 @@
 
 <p align="left">
   PhD candidate in Computer Science @ Université Laval (Quebec City) ·
-  Log anomaly detection with LLMs · Security &amp; cloud engineer ·
-  Full-stack developer
+  Attack detection with LLMs · Security
 </p>
 
 ## <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e478rkclqwq6oobeum4afl3y7bv2uma727qmfz368wg&rid=200.webp&ct=g" >
@@ -14,13 +13,12 @@
 
 ### 🔭 What I'm working on
 
-- **Research** — work on **log anomaly detection** using LLMs, contrastive learning, and small language models.
-- **Security** — Penetration testing, SIEM, and cloud infrastructure. Active on bug bounty platforms and working toward **OSCP**.
-- **Web** — Freelance full-stack work.
+- **Research** — work on **Attack detection** using LLMs, and small language models.
+- **Security** — Penetration testing, SIEM, and cloud infrastructure, Detection engineer, SOC.
 
 ### 💬 Ask me about
 
-Log anomaly detection · transformers &amp; small language models · pentesting &amp; SIEM · cloud infra
+Attack detection · transformers &amp; small language models · pentesting &amp; SIEM · SOC
 
 ### 🌍 Languages
 
